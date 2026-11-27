@@ -88,6 +88,7 @@ Google has no official GSC MCP server as of September 2026, so this category is 
 | [surendranb/google-search-console-mcp](https://github.com/surendranb/google-search-console-mcp) | GSC across Claude, Cursor, Windsurf and other clients | Local | Google OAuth | 40 | 2026-11-10 |
 | [Magdoub/awesome-gsc-mcp](https://github.com/Magdoub/awesome-gsc-mcp) | 27 tools with a caching layer and rate limiting | Local | Google OAuth | 14 | 2026-02-25 |
 | [serpfire/gsc-mcp-server](https://github.com/serpfire/gsc-mcp-server) | GSC plus built-in keyword cannibalisation detection | Local | Google OAuth | 10 | 2026-03-04 |
+| [kkvlabs/ga4-gsc-mcp](https://github.com/kkvlabs/ga4-gsc-mcp) | GSC, GA4 and Bing in one read-only server: 36 tools incl. drop analysis, cannibalisation, content decay and URL inspection (maintained by KKV Labs, who keep this list) | Local | Google OAuth | 0 | 2026-11-27 |
 
 ## Bing Webmaster Tools
 
@@ -97,6 +98,7 @@ Google has no official GSC MCP server as of September 2026, so this category is 
 | [zizzfizzix/mcp-server-bwt](https://github.com/zizzfizzix/mcp-server-bwt) | Exposes the full Bing Webmaster Tools API surface | Local | API key | 7 | 2026-09-25 |
 | [urdigitalau/mcp-integrations](https://github.com/urdigitalau/mcp-integrations) | Bing Webmaster, WordPress and Microsoft Clarity in one repo | Local | API key | 0 | 2026-09-17 |
 | [abhay-ramesh/mcp-bing-webmaster](https://github.com/abhay-ramesh/mcp-bing-webmaster) | Bing Webmaster API access for Claude and other clients | Local | API key | 0 | 2026-03-12 |
+| [kkvlabs/ga4-gsc-mcp](https://github.com/kkvlabs/ga4-gsc-mcp) | Bing Webmaster tools (queries, pages, crawl issues, sitemaps, keyword research) alongside GSC and GA4 (maintained by KKV Labs, who keep this list) | Local | API key | 0 | 2026-11-27 |
 
 ## Keyword research and trends
 
